@@ -1,5 +1,7 @@
 ## Practice Git As A Group
 
+### Navigating GitHub
+
 - Create Project (already been done for you)  
 - Clone repository into your own project folder  
 - Git checkout -b branchName
