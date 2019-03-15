@@ -7,4 +7,8 @@ export const people = [
         name: 'Jonathan May',
         weirdFact: 'I think shoes are dumb.'
     },
+    {
+        name: 'Eric Veeeeeeeere',
+        weirdFact: 'I like cats......'
+    }
 ];
